@@ -7,10 +7,10 @@ function callMe() {
   return lyric;
 
 }
-
-var thisIsCrazy = function (){
+function crazy(){
+ function thisIsCrazy(){
    console.log("hey!!!")
-function crazy() {
+
   // fix the code in here:
 thisIsCrazy();
  }
