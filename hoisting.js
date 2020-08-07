@@ -11,7 +11,7 @@ function crazy(){
  function thisIsCrazy(){
    console.log("hey!!!")
 
-  // fix the code in here 
+  // fix the code in here
 }
 thisIsCrazy();
 }
